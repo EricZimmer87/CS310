@@ -1,9 +1,11 @@
 /*
-CS310-T301 Programming with C++
-Professor Robert Flowers
-M1: Assignment 1.2
-Eric Zimmer
-March 7, 2025
+Student's Name: Eric Zimmer
+Date: 3/10/2025
+File Name: Ch02Exercise13.cpp
+Description: This program asks the user to enter the original price of an item,
+the percentage of mark-up, and the sales tax rate. The program calculates and
+returns the original price of the item, the percentage mark up, the selling
+price, the sales tax rate, the sales tax, and the final price of the item.
 */
 
 #include <iostream>
