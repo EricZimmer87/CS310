@@ -22,7 +22,7 @@ int main() {
     // Keep asking for input until input is valid
     while (!(cin >> netBalance) || netBalance < 0) {
         cin.clear(); // Clear error flag
-        cin.ignore(1000, '\n'); // Ignore invalid input
+        cin.ignore(numeric_limits<streamsize>::max(), '\n'); // Ignore invalid input
         cout << "Invalid input. Please enter a valid number greater than or equal to 0:" << endl;
     }
 
@@ -31,7 +31,7 @@ int main() {
     cout << "What is the payment:" << endl;
     while (!(cin >> payment) || payment < 0) {
         cin.clear();
-        cin.ignore(1000, '\n');
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         cout << "Invalid input. Please enter a valid number greater than or equal to 0:" << endl;
     }
 
@@ -40,7 +40,7 @@ int main() {
     cout << "What is the number of days in the billing cycle:" << endl;
     while (!(cin >> d1) || d1 <= 0) {
         cin.clear();
-        cin.ignore(1000, '\n');
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         cout << "Invalid input. Please enter a valid number greater than 0:" << endl;
     }
 
@@ -49,7 +49,7 @@ int main() {
     cout << "What is the number of days payment is made before the billing cycle:" << endl;
     while (!(cin >> d2) || d2 <= 0) {
         cin.clear();
-        cin.ignore(1000, '\n');
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         cout << "Invalid input. Please enter a valid number greater than 0:" << endl;
     }
 
@@ -58,7 +58,7 @@ int main() {
     cout << "What is the interest rate per month:" << endl;
     while(!(cin >> interestRate) || interestRate < 0) {
         cin.clear();
-        cin.ignore(1000, '\n');
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         cout << "Invalid input. Please enter a valid number greater than or equal to 0:" << endl;
     }
 
@@ -72,7 +72,7 @@ int main() {
     cout << fixed << setprecision(2);
     locale loc("");
     cout.imbue(loc);
-    cout << "Interest: $" << interest << endl;
+    cout << "\nInterest: $" << interest << endl;
 
     return 0;
 }
