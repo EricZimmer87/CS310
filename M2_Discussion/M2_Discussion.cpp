@@ -1,6 +1,6 @@
 /*
 Student's Name: Eric Zimmer
-Date: 3/13/2025
+Date: 3/19/2025
 File Name: M2_Discussion.cpp
 Description: This program asks for the user's first name and last name.
 It then prints a 'hello' message and asks for the user's favorite course.
