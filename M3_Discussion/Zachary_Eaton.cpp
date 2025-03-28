@@ -24,5 +24,5 @@ int main() {
         cout << "You still have time to complete your weekly assignments!" << endl;
     }
 
-    return 0; // Changed "O" to "0"
+    return 0; // Changed "O" to "0" -Eric Zimmer
 }
