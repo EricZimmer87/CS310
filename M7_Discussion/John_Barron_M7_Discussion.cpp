@@ -5,7 +5,8 @@ Assignment:     M7: Discussion
 Professor:      Dr. Robert Flowers
 Date:           04/25/2025
 File Name:      John_Barron_M7_Discussion.cpp
-Description:    
+Description:    This program creates a 2D and prints '#' for 1s and '.' for 0s.
+Originally developed by John-Michael Barron, corrected by Eric Zimmer.
 
 Developed and tested in Visual Studio 2022 (Windows 11).
 Compiled with Microsoft (R) C/C++ Optimizing Compiler Version 19.43.34810.
