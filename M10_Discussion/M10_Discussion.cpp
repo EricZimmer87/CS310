@@ -67,6 +67,13 @@ int main() {
     }
     cout << endl;
 
+    // Free memory
+    while (head != nullptr) {
+        Node* temp = head;
+        head = (*head).next;
+        delete temp;
+    }
+
 
     return 0;
 }

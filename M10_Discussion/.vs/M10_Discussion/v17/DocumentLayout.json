@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eric Zimmer\\Documents\\Bellevue\\Spring2025\\CS310-ProgrammingWithC\u002B\u002B\\CS310\\M10_Discussion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eric Zimmer\\Documents\\Bellevue\\Spring2025\\CS310-ProgrammingWithC\u002B\u002B\\CS310\\M10_Discussion\\M10_Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:M10_Discussion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M10_Discussion.cpp",
+              "DocumentMoniker": "C:\\Users\\Eric Zimmer\\Documents\\Bellevue\\Spring2025\\CS310-ProgrammingWithC\u002B\u002B\\CS310\\M10_Discussion\\M10_Discussion.cpp",
+              "RelativeDocumentMoniker": "M10_Discussion.cpp",
+              "ToolTip": "C:\\Users\\Eric Zimmer\\Documents\\Bellevue\\Spring2025\\CS310-ProgrammingWithC\u002B\u002B\\CS310\\M10_Discussion\\M10_Discussion.cpp",
+              "RelativeToolTip": "M10_Discussion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T16:31:49.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
